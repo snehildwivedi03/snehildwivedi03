@@ -10,10 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Snehil Dwivedi**, a passionate **Full-Stack Developer** from 🇮🇳  
+I'm **Snehil Dwivedi**, a passionate **FullStack Developer** from 🇮🇳  
 🔭 Currently building projects in **React**, **Node.js**, and **C++**  
-🌱 I’m also preparing for **CDS** and **AFCAT** exams  
-⚡ Fun Fact: I love combining **tech & design** to make dev experiences magical.
+  ⚡ Fun Fact: I love combining **tech & design** to make dev experiences magical.
 
 ---
 
