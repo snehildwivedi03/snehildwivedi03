@@ -4,9 +4,14 @@
 <img src="https://i.imgur.com/qj6pE4M.png" width="100%" alt="Snehil Dwivedi Banner" />
 
 <!-- Typing Animation Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&center=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Snehil+Dwivedi;Fullstack+Developer+%7C+Frontend+Craftsman;JavaScript+%7C+React+%7C+Node.js+%7C+C%2B%2B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
 
 ---
 
