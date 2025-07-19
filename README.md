@@ -1,6 +1,5 @@
 <!-- README.md -->
 
-<!-- 🧠 Banner -->
 <p align="center">
   <img src="./assets/banner.png" alt="Snehil Dwivedi Banner" width="100%" />
 </p>
@@ -67,11 +66,11 @@ I'm **Snehil Dwivedi**, a passionate **Full-Stack Developer** from 🇮🇳
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Swadha Organics](https://swadha-organics.netlify.app/) | Frontend site built in 3 days | HTML, CSS, JS |
-| Portfolio Terminal UI | OS-based themed portfolio with command system | JavaScript, Design |
-| Library Management System | Full C++ project for concept brushing | C++ |
+| Project                                                 | Description                                   | Tech               |
+| ------------------------------------------------------- | --------------------------------------------- | ------------------ |
+| [Swadha Organics](https://swadha-organics.netlify.app/) | Frontend site built in 3 days                 | HTML, CSS, JS      |
+| Portfolio Terminal UI                                   | OS-based themed portfolio with command system | JavaScript, Design |
+| Library Management System                               | Full C++ project for concept brushing         | C++                |
 
 ---
 
