@@ -13,8 +13,8 @@
 </h2>
 
 <p align="center">
-  🚀 Passionate Full Stack Developer | Problem Solver <br/>
-  💻 Skilled in JavaScript, React, Node.js & C++
+  Passionate Full Stack Developer | Problem Solver <br/>
+  Skilled in JavaScript, React, Node.js & C++
 </p>
 >
 
@@ -22,29 +22,38 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Snehil Dwivedi**, a passionate **Full-Stack Developer** from 🇮🇳  
-🔭 Currently building projects in **React**, **Node.js**, and **C++**  
-🎯 Preparing for **CDS** and **AFCAT 2025**  
-⚡ I combine design + code to craft magical dev experiences.
+I'm **Snehil Dwivedi** — just a regular human who thinks in `console.log()` and dreams in `while(true)` loops 😅  
+💻 I build cool stuff using **JavaScript**, **React**, **Node.js**, and I’m dangerously comfortable with **C++**
 
----
+🧠 When I’m not coding, you’ll find me:
+
+- Getting lost in a game of **chess**
+- Flipping through **books**
+- Wandering out into **nature** for some peace and fresh ideas 🌿
+
+🚀 Currently:
+
+- Working on personal projects to level up my skills
+- Exploring ideas to start something of my own (startup brain: always online ⚡)
+
+🎯 Goal: Write clean, efficient code and maybe build something people can't live without one day ☕💡
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-icons/js.svg" width="40px" />
-  <img src="./assets/tech-icons/react.svg" width="40px" />
-  <img src="./assets/tech-icons/nodejs.svg" width="40px" />
-  <img src="./assets/tech-icons/express.svg" width="40px" />
-  <img src="./assets/tech-icons/mongodb.svg" width="40px" />
-  <img src="./assets/tech-icons/mysql.svg" width="40px" />
-  <img src="./assets/tech-icons/cpp.svg" width="40px" />
-  <img src="./assets/tech-icons/git.svg" width="40px" />
-  <img src="./assets/tech-icons/github.svg" width="40px" />
-  <img src="./assets/tech-icons/bootstrap.svg" width="40px" />
-  <img src="./assets/tech-icons/tailwind.svg" width="40px" />
-  <img src="./assets/tech-icons/vscode.svg" width="40px" />
-  <img src="./assets/tech-icons/figma.svg" width="40px" />
+  <img src="./assets/icons/js.png" width="40px" alt="JavaScript" />
+  <img src="./assets/icons/react.png" width="40px" alt="React" />
+  <img src="./assets/icons/node.png" width="40px" alt="Node.js" />
+  <img src="./assets/icons/express.png" width="40px" alt="Express" />
+  <img src="./assets/icons/mongo.png" width="40px" alt="MongoDB" />
+  <img src="./assets/icons/mysql.svg" width="40px" alt="MySQL" />
+  <img src="./assets/icons/cpp.png" width="40px" alt="C++" />
+  <img src="./assets/icons/git.png" width="40px" alt="Git" />
+  <img src="./assets/icons/github.png" width="40px" alt="GitHub" />
+  <img src="./assets/icons/boot.png" width="40px" alt="Bootstrap" />
+  <img src="./assets/icons/tail.png" width="40px" alt="Tailwind CSS" />
+  <img src="./assets/icons/vscode.svg" width="40px" alt="VS Code" />
+  <img src="./assets/icons/linux.png" width="40px" alt="Linux" />
 </p>
 
 ---
