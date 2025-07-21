@@ -1,8 +1,5 @@
 <p align="center">
-<p align="center">
-  <img src="https://media.tenor.com/CNV2fBv3Y8IAAAAC/noodle-need-for-speed.gif" alt="Noodle Need for Speed GIF" width="100%" />
-</p>
-
+  <img src="./assets/banner/Animated-car.gif" alt="Snehil Dwivedi Banner" width="100%" />
 </p>
 
 <!-- Typing effect gif or fallback heading -->
