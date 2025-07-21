@@ -66,7 +66,13 @@ I'm **Snehil Dwivedi** — just a regular human who thinks in `console.log()` an
 
 ---
 
-<!-- 🧠 Footer -->
-<p align="center">
-  <img src="./assets/footer.gif" width="100%" alt="Let's Build Something Cool Together" />
-</p>
+## 🚀 Featured Projects
+
+| Project                                                           | Description                                          | Tech Stack                |
+| ----------------------------------------------------------------- | ---------------------------------------------------- | ------------------------- |
+| [3D Portfolio](https://snehil-3d-portfolio.vercel.app/)           | Interactive 3D portfolio site with motion effects    | React, Three.js, Tailwind |
+| [Swadha Organics](https://swadha-organics.netlify.app/)           | Minimalistic organic product landing page            | HTML, CSS, JavaScript     |
+| [JS Terminal Portfolio](https://snehil-js-portfolio.netlify.app/) | OS-themed HTML/CSS portfolio with terminal interface | HTML, CSS, JavaScript     |
+| Library Management System                                         | Console-based app to manage books and students       | C++, OOP, File Handling   |
+
+---
