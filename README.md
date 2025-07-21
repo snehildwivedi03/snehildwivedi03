@@ -66,36 +66,6 @@ I'm **Snehil Dwivedi** — just a regular human who thinks in `console.log()` an
 
 ---
 
-## 🎯 Goals & Aspirations
-
-- Crack **CDS & AFCAT 2025** ✈️
-- Contribute to **open-source**
-- Land a **top tech internship/job**
-- Build my own **React + Node.js product**
-- Learn **DSA** and **System Design**
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                 | Description                                   | Tech               |
-| ------------------------------------------------------- | --------------------------------------------- | ------------------ |
-| [Swadha Organics](https://swadha-organics.netlify.app/) | Frontend site built in 3 days                 | HTML, CSS, JS      |
-| Portfolio Terminal UI                                   | OS-based themed portfolio with command system | JavaScript, Design |
-| Library Management System                               | Full C++ project for concept brushing         | C++                |
-
----
-
-## 🎵 Music Vibe (Click to Listen)
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX7gIoKXt0gmx" target="_blank">
-    <img src="https://img.icons8.com/color/48/spotify--v1.png" alt="Listen on Spotify" />
-  </a>
-</p>
-
----
-
 <!-- 🧠 Footer -->
 <p align="center">
   <img src="./assets/footer.gif" width="100%" alt="Let's Build Something Cool Together" />
