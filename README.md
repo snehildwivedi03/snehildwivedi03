@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <p align="center">
   <img src="./assets//banner/Banner.png" alt="Snehil Dwivedi Banner" width="100%" />
 </p>
