@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets//banner/Banner.png" alt="Snehil Dwivedi Banner" width="100%" />
+<div class="tenor-gif-embed" data-postid="27362883" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/noodle-need-for-speed-animation-car-gif-27362883">Noodle Need For Speed GIF</a>from <a href="https://tenor.com/search/noodle-gifs">Noodle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <!-- Typing effect gif or fallback heading -->
