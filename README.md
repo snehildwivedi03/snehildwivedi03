@@ -6,7 +6,7 @@
 </p>
 
 <!-- Typing effect gif or fallback heading -->
-<h2 align="center">Hey 👋, I'm Snehil Dwivedi</h2>
+<h2 align="center">Hey<img src="./assets/Avatar/hello.gif" alt="Snehil Dwivedi Banner" style="width: 100%; max-height: 300px; object-fit: cover;" /> I'm Snehil Dwivedi</h2>
 <p align="center">
   <strong>Fullstack Developer | Frontend Craftsman</strong><br/>
   <em>JavaScript | React | Node.js | C++</em>
