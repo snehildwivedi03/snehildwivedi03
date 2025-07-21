@@ -61,10 +61,6 @@ I'm **Snehil Dwivedi** — just a regular human who thinks in `console.log()` an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehildwivedi&show_icons=true&theme=radical" alt="Snehil's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehildwivedi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
