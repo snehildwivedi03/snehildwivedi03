@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/banner/mountain.gif" alt="Snehil Dwivedi Banner" width="100%" height="85%" />
+ <p align="center">
+  <img src="./assets/banner/mountain.gif" alt="Snehil Dwivedi Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+</p>
+
 </p>
 
 <!-- Typing effect gif or fallback heading -->
