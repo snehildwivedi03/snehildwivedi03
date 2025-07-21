@@ -46,13 +46,13 @@ I'm **Snehil Dwivedi** — just a regular human who thinks in `console.log()` an
   <img src="./assets/icons/node.png" width="40px" alt="Node.js" />
   <img src="./assets/icons/express.png" width="40px" alt="Express" />
   <img src="./assets/icons/mongo.png" width="40px" alt="MongoDB" />
-  <img src="./assets/icons/mysql.svg" width="40px" alt="MySQL" />
+  <img src="./assets/icons/mysql.png" width="40px" alt="MySQL" />
   <img src="./assets/icons/cpp.png" width="40px" alt="C++" />
   <img src="./assets/icons/git.png" width="40px" alt="Git" />
   <img src="./assets/icons/github.png" width="40px" alt="GitHub" />
   <img src="./assets/icons/boot.png" width="40px" alt="Bootstrap" />
   <img src="./assets/icons/tail.png" width="40px" alt="Tailwind CSS" />
-  <img src="./assets/icons/vscode.svg" width="40px" alt="VS Code" />
+  <img src="./assets/icons/vscode.png" width="40px" alt="VS Code" />
   <img src="./assets/icons/linux.png" width="40px" alt="Linux" />
 </p>
 
