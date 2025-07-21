@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Snehil Dwivedi Banner" width="100%" />
+  <img src="./assets//banner/Banner.png" alt="Snehil Dwivedi Banner" width="100%" />
 </p>
 
 <!-- Typing effect gif or fallback heading -->
