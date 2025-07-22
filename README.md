@@ -7,9 +7,9 @@
 
 <!-- Typing effect gif or fallback heading -->
 <h2 align="center">
-  <img src="./assets/Avatar/hello.gif" alt="Snehil Dwivedi Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
-  <br/>
-  Hey there, I'm <strong>Snehil Dwivedi</strong>
+
+👋 Hey there, I'm <strong>Snehil Dwivedi</strong>
+
 </h2>
 
 <p align="center">
