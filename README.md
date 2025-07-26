@@ -1,3 +1,4 @@
+<!-- Banner image -->
 <p align="center">
  <p align="center">
   <img src="./assets/banner/Banner.gif" alt="Snehil Dwivedi Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
