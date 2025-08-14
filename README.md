@@ -17,7 +17,6 @@
   Passionate Full Stack Developer | Problem Solver <br/>
   Skilled in JavaScript, React, Node.js & C++
 </p>
->
 
 ---
 
