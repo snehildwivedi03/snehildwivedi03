@@ -172,22 +172,6 @@ flowchart TD
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehildwivedi03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehildwivedi03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehildwivedi03&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
-
----
-
 ## Currently
 
 - Building observability with OpenTelemetry as a Jr SDE at CrosslynxUS
