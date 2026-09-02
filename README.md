@@ -1,78 +1,118 @@
-<!-- Banner image -->
+<!-- Banner -->
 <p align="center">
- <p align="center">
   <img src="./assets/banner/Banner.gif" alt="Snehil Dwivedi Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 </p>
 
-</p>
-
-<!-- Typing effect gif or fallback heading -->
-<h2 align="center">
-
-👋 Hey there, I'm <strong>Snehil Dwivedi</strong>
-
-</h2>
+<h1 align="center">Snehil Dwivedi</h1>
 
 <p align="center">
-  Passionate Full Stack Developer | Problem Solver <br/>
-  Skilled in JavaScript, React, Node.js & C++
+  <strong>Full Stack Developer</strong> &nbsp;&middot;&nbsp; JavaScript &nbsp;&middot;&nbsp; React &nbsp;&middot;&nbsp; Node.js &nbsp;&middot;&nbsp; C++
 </p>
-
----
-
-## 🙋‍♂️ About Me
-
-I'm **Snehil Dwivedi** — just a regular human who thinks in `console.log()` and dreams in `while(true)` loops 😅  
-💻 I build cool stuff using **JavaScript**, **React**, **Node.js**, and I’m dangerously comfortable with **C++**
-
-🧠 When I’m not coding, you’ll find me:
-
-- Getting lost in a game of **chess**
-- Flipping through **books**
-- Wandering out into **nature** for some peace and fresh ideas 🌿
-
-🚀 Currently:
-
-- Working on personal projects to level up my skills
-- Exploring ideas to start something of my own (startup brain: always online ⚡)
-
-🎯 Goal: Write clean, efficient code and maybe build something people can't live without one day ☕💡
-
-## 💻 Tech Stack
 
 <p align="center">
-  <img src="./assets/icons/js.png" width="40px" alt="JavaScript" />
-  <img src="./assets/icons/react.png" width="40px" alt="React" />
-  <img src="./assets/icons/node.png" width="40px" alt="Node.js" />
-  <img src="./assets/icons/express.png" width="40px" alt="Express" />
-  <img src="./assets/icons/mongo.png" width="40px" alt="MongoDB" />
-  <img src="./assets/icons/mysql.png" width="40px" alt="MySQL" />
-  <img src="./assets/icons/cpp.png" width="40px" alt="C++" />
-  <img src="./assets/icons/Git.png" width="40px" alt="Git" />
-  <img src="./assets/icons/github.png" width="40px" alt="GitHub" />
-  <img src="./assets/icons/boot.png" width="40px" alt="Bootstrap" />
-  <img src="./assets/icons/tail.png" width="40px" alt="Tailwind CSS" />
-  <img src="./assets/icons/vscode.png" width="40px" alt="VS Code" />
-  <img src="./assets/icons/linux.png" width="40px" alt="Linux" />
+  I design and build reliable web applications, from clean user interfaces to well structured backend services.
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehildwivedi&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://snehil-3d-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/snehildwivedi03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:snehildwivedi03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-| Project                                                           | Description                                          | Tech Stack                |
-| ----------------------------------------------------------------- | ---------------------------------------------------- | ------------------------- |
-| [3D Portfolio](https://snehil-3d-portfolio.vercel.app/)           | Interactive 3D portfolio site with motion effects    | React, Three.js, Tailwind |
-| [Swadha Organics](https://swadha-organics.netlify.app/)           | Minimalistic organic product landing page            | HTML, CSS, JavaScript     |
-| [JS Terminal Portfolio](https://snehil-js-portfolio.netlify.app/) | OS-themed HTML/CSS portfolio with terminal interface | HTML, CSS, JavaScript     |
-| [Cpp Projects](https://github.com/snehildwivedi03/Cpp-Projects)   | Collection of C++ projects to practice OOP & logic   | C++, File Handling, OOP   |
+I am a Full Stack Developer who enjoys turning ideas into products that feel fast and look clean. My work centers on the JavaScript ecosystem, and I am equally comfortable reasoning about data structures and algorithms in C++.
+
+- Focused on writing readable, maintainable, and efficient code
+- Building personal projects to sharpen my craft and explore new tools
+- Interested in product thinking and the path from concept to launch
+
+Away from the keyboard I play chess, read widely, and spend time outdoors to reset and find new ideas.
 
 ---
+
+## Technical Skills
+
+**Languages**
+`JavaScript` &nbsp; `C++` &nbsp; `SQL` &nbsp; `HTML` &nbsp; `CSS`
+
+**Frontend**
+`React` &nbsp; `Tailwind CSS` &nbsp; `Bootstrap`
+
+**Backend**
+`Node.js` &nbsp; `Express`
+
+**Databases**
+`MongoDB` &nbsp; `MySQL`
+
+**Tools and Platforms**
+`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Linux`
+
+<p align="left">
+  <img src="./assets/icons/js.png" width="38px" alt="JavaScript" />
+  <img src="./assets/icons/react.png" width="38px" alt="React" />
+  <img src="./assets/icons/node.png" width="38px" alt="Node.js" />
+  <img src="./assets/icons/express.png" width="38px" alt="Express" />
+  <img src="./assets/icons/mongo.png" width="38px" alt="MongoDB" />
+  <img src="./assets/icons/mysql.png" width="38px" alt="MySQL" />
+  <img src="./assets/icons/cpp.png" width="38px" alt="C++" />
+  <img src="./assets/icons/Git.png" width="38px" alt="Git" />
+  <img src="./assets/icons/github.png" width="38px" alt="GitHub" />
+  <img src="./assets/icons/boot.png" width="38px" alt="Bootstrap" />
+  <img src="./assets/icons/tail.png" width="38px" alt="Tailwind CSS" />
+  <img src="./assets/icons/vscode.png" width="38px" alt="VS Code" />
+  <img src="./assets/icons/linux.png" width="38px" alt="Linux" />
+</p>
+
+---
+
+## Featured Projects
+
+### 3D Portfolio
+An interactive portfolio built with real time 3D and motion effects for an immersive first impression.
+`React` &nbsp; `Three.js` &nbsp; `Tailwind CSS`
+[Live Site](https://snehil-3d-portfolio.vercel.app/)
+
+### Swadha Organics
+A clean, minimal landing page for an organic product brand with a focus on clarity and conversion.
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+[Live Site](https://swadha-organics.netlify.app/)
+
+### JS Terminal Portfolio
+An operating system themed portfolio with an interactive terminal interface for a playful experience.
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+[Live Site](https://snehil-js-portfolio.netlify.app/)
+
+### C++ Projects
+A growing collection of C++ programs exploring object oriented design, file handling, and core logic.
+`C++` &nbsp; `OOP` &nbsp; `File Handling`
+[Source Code](https://github.com/snehildwivedi03/Cpp-Projects)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehildwivedi03&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehildwivedi03&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehildwivedi03&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Currently
+
+- Deepening my understanding of scalable frontend architecture and clean backend design
+- Exploring product ideas with the goal of building something people rely on
+
+---
+
+<p align="center">
+  <em>Open to collaboration and interesting problems. Feel free to reach out.</em>
+</p>
