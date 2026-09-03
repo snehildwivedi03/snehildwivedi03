@@ -224,10 +224,12 @@ When I step away from the keyboard, I am usually thinking a few moves ahead.
 
 ## Currently
 
-- Building observability with OpenTelemetry as a Jr SDE at CrosslynxUS
-- Gaining hands on experience across traces, metrics, logs, and the OTel Collector
+- Working as a Jr Software Engineer at CrosslynxUS, building observability into production services
+- Instrumenting apps with OpenTelemetry to capture clean traces, metrics, and logs
+- Running telemetry pipelines through the OTel Collector and shaping data for dashboards and alerts
 - Exploring agentic AI, where autonomous agents plan, use tools, and coordinate tasks
-- Sharpening frontend architecture and clean backend design along the way
+- Sharpening frontend architecture with React and TypeScript, and clean, scalable backend design
+- Reading, playing chess, and always picking up something new to stay sharp
 
 ---
 
