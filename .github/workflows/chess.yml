@@ -1,0 +1,44 @@
+name: chess
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: chess-game
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        working-directory: chess
+        run: npm install --no-audit --no-fund
+
+      - name: Process move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ACTOR: ${{ github.event.issue.user.login }}
+          GH_TOKEN: ${{ github.token }}
+        run: node chess/process-move.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "chess-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chess: ${{ github.event.issue.title }}" || echo "no changes to commit"
+          git push

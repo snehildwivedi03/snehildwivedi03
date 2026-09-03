@@ -193,15 +193,30 @@ When I step away from the keyboard, I am usually thinking a few moves ahead.
   </tr>
 </table>
 
-### Care for a game? &#9823;
+### Play Chess With Me &#9823;
 
-I genuinely love chess. Here is a board rendered with **real pieces** (position after `1.e4 e5 2.Nf3`):
+**Anyone can play me — right here on GitHub.** It's a live, shared game: you make a move, a bot validates it with a real chess engine, updates the board below, and it's the next person's turn.
 
+<!-- CHESS:START -->
 <p align="center">
-  <img src="https://backscattering.de/web-boardimage/board.png?fen=rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R&lastMove=g1f3&coordinates=true&size=360" alt="Snehil Dwivedi chess board — position after 1.e4 e5 2.Nf3" width="360" />
+  <img src="https://backscattering.de/web-boardimage/board.png?fen=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR&coordinates=true&size=360" alt="Live community chess board on Snehil Dwivedi (snehildwivedi03) GitHub profile" width="360" />
 </p>
 
-> Classic Italian / Ruy territory &mdash; my favourite way to open. Want to play me for real? A community game is coming soon.
+<p align="center"><b>White to move</b> &nbsp;&middot;&nbsp; click a move, then press <b>Submit new issue</b></p>
+
+<p align="center">
+  <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Ca2a3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">a3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Ca2a4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">a4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cb2b3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">b3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cb2b4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">b4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cc2c3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">c3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cc2c4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">c4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cd2d3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">d3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cd2d4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">d4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Ce2e3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">e3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Ce2e4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">e4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cf2f3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">f3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cf2f4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">f4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cg2g3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">g3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cg2g4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">g4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Ch2h3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">h3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Ch2h4&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">h4</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cb1a3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">Na3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cb1c3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">Nc3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cg1f3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">Nf3</a> &nbsp;&middot;&nbsp; <a href="https://github.com/snehildwivedi03/snehildwivedi03/issues/new?title=chess%7Cmove%7Cg1h3&body=Press%20%22Submit%20new%20issue%22%20to%20play%20this%20move.%20You%20do%20not%20need%20to%20change%20anything.">Nh3</a>
+</p>
+<!-- CHESS:END -->
+
+**How to play**
+
+- Click any **move link** shown under the board above — each one is a legal move for the side whose turn it is.
+- GitHub opens a **New issue** with your move already filled in. Just press **Submit new issue** (you need a free GitHub account and to be signed in).
+- **Do not edit the issue title** — it carries your move, e.g. `chess|move|e2e4`.
+- Within a few seconds a bot plays your move, updates the board here, replies to your issue, and closes it.
+- **Refresh my profile** to see the new position, then make the next move. It's one open board — you and everyone else share the same game.
+- When a game ends (checkmate, stalemate, or draw), click **Start a new game** under the board to reset it.
 
 ---
 

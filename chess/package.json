@@ -1,0 +1,9 @@
+{
+  "name": "profile-chess",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Community chess game for the snehildwivedi03 GitHub profile.",
+  "dependencies": {
+    "chess.js": "0.13.4"
+  }
+}
