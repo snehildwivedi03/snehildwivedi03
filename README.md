@@ -195,22 +195,13 @@ When I step away from the keyboard, I am usually thinking a few moves ahead.
 
 ### Care for a game? &#9823;
 
-I genuinely love chess. Here is a board mid-thought &mdash; **fork the repo, make your move, and open a PR.**
+I genuinely love chess. Here is a board rendered with **real pieces** (position after `1.e4 e5 2.Nf3`):
 
-```text
-   a b c d e f g h
- 8 r n b q k b n r 8
- 7 p p p p . p p p 7
- 6 . . . . . . . . 6
- 5 . . . . p . . . 5
- 4 . . . . P . . . 4
- 3 . . . . . N . . 3
- 2 P P P P . P P P 2
- 1 R N B Q K B . R 1
-   a b c d e f g h
-```
+<p align="center">
+  <img src="https://backscattering.de/web-boardimage/board.png?fen=rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R&lastMove=g1f3&coordinates=true&size=360" alt="Snehil Dwivedi chess board — position after 1.e4 e5 2.Nf3" width="360" />
+</p>
 
-> White to move &middot; after `1.e4 e5 2.Nf3` &mdash; classic Italian/Ruy territory, my favourite way to open.
+> Classic Italian / Ruy territory &mdash; my favourite way to open. Want to play me for real? A community game is coming soon.
 
 ---
 
