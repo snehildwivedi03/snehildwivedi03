@@ -24,8 +24,12 @@
   <a href="mailto:snehildwivedi03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <em>Snehil Dwivedi (<code>snehildwivedi03</code>) &mdash; Full Stack Developer &amp; Jr Software Engineer at CrosslynxUS, based in India, building observability with OpenTelemetry and exploring Agentic AI.</em>
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snehil Dwivedi (snehildwivedi03) GitHub contribution snake animation" />
 </div>
 
 ---
@@ -38,15 +42,19 @@ $ snehil --about
 
 ```yaml
 name:      Snehil Dwivedi
+alias:     snehildwivedi03
 role:      Jr Software Engineer (SDE) @ CrosslynxUS
+location:  India
 building:  Observability pipelines with OpenTelemetry (OTel)
 learning:  Agentic AI, distributed tracing, scalable backends
-stack:     JavaScript, React, Node.js, C++
+stack:     JavaScript, TypeScript, React, Node.js, C++
+hobbies:   chess, reading, travelling, learning new things
 mindset:   clean code, strong fundamentals, ship and iterate
-offline:   chess, books, and time outdoors to reset ideas
 ```
 
-I am a Full Stack Developer, currently working as a Junior Software Engineer at CrosslynxUS, where my focus is telemetry and observability using OpenTelemetry. I enjoy turning ideas into products that feel fast and look clean, and I am steadily building experience across OTel instrumentation and agentic AI workflows.
+Hi, I am **Snehil Dwivedi** &mdash; a Full Stack Developer and Junior Software Engineer (SDE) at **CrosslynxUS**, based in India. My day-to-day is telemetry and observability with **OpenTelemetry**: instrumenting services and turning raw traces, metrics, and logs into signals teams can actually trust. I love turning ideas into products that feel fast and look clean, and I am steadily going deeper into **distributed systems** and **Agentic AI** &mdash; where autonomous agents plan, call tools, and coordinate work.
+
+You can find me online as **`snehildwivedi03`**. If you searched for *Snehil Dwivedi* or *snehildwivedi03*, welcome &mdash; you are in the right place. :wave:
 
 ---
 
@@ -169,6 +177,40 @@ flowchart TD
     </td>
   </tr>
 </table>
+
+---
+
+## Beyond the Code
+
+When I step away from the keyboard, I am usually thinking a few moves ahead.
+
+<table>
+  <tr>
+    <td align="center" width="25%">&#9823;<br/><strong>Chess</strong><br/><sub>Tactics &amp; endgames</sub></td>
+    <td align="center" width="25%">&#128218;<br/><strong>Reading</strong><br/><sub>Tech &amp; non-fiction</sub></td>
+    <td align="center" width="25%">&#9992;&#65039;<br/><strong>Travelling</strong><br/><sub>New places &amp; people</sub></td>
+    <td align="center" width="25%">&#129504;<br/><strong>Learning</strong><br/><sub>Always something new</sub></td>
+  </tr>
+</table>
+
+### Care for a game? &#9823;
+
+I genuinely love chess. Here is a board mid-thought &mdash; **fork the repo, make your move, and open a PR.**
+
+```text
+   a b c d e f g h
+ 8 r n b q k b n r 8
+ 7 p p p p . p p p 7
+ 6 . . . . . . . . 6
+ 5 . . . . p . . . 5
+ 4 . . . . P . . . 4
+ 3 . . . . . N . . 3
+ 2 P P P P . P P P 2
+ 1 R N B Q K B . R 1
+   a b c d e f g h
+```
+
+> White to move &middot; after `1.e4 e5 2.Nf3` &mdash; classic Italian/Ruy territory, my favourite way to open.
 
 ---
 
